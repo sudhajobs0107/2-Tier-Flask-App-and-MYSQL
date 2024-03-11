@@ -1,5 +1,6 @@
 # **Two-Tier Flask App and MYSQL Project :smile:**
 ### In this project we will do containerization of a two-tier application using **Docker, Docker Compose and image scanning with Docker Scout**. We will make a **Flask app and MySQL database.**
+![project-diagram](https://github.com/sudhajobs0107/2-Tier-Flask-App-and-MYSQL/blob/main/images/project_diagram.gif)
 ___
 # Prerequisites
 ### Before starting the project you should have these things in your system :-
