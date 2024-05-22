@@ -76,7 +76,7 @@ docker push sudhajobs0107(dockerhub_username)/flaskapp:latest
 + ### We successfully push our image to dockerhub.
 ![dockerhub-image](https://github.com/sudhajobs0107/2-Tier-Flask-App-and-MYSQL/blob/main/images/dockerhub-image.PNG)
 ## **Now this image is publically available for everyone. Anyone can pull and run this image.**
-## **Now we have 2 options. One is we will make two conatiners and two networks separately one & then another and Second we will make containers and networks by docker-compose file**(*Disclaimer anyone can choose any option.*)
+## **Now we have 2 options. One option is we will make two conatiners and one network & then attach that network to containers and Second option we will make containers by docker-compose file and network it will create automatically.**(*Disclaimer anyone can choose any option.*)
 
 
 ## **<ins>First</ins> :- We will make two container separately one and then another.**
